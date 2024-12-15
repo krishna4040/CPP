@@ -1,0 +1,9 @@
+1	%d	int/signed int	   used for I/O signed integer value
+2	%c	char	           Used for I/O character value
+3	%f	float	           Used for I/O decimal floating-point value        
+4	%s	string	           Used for I/O string/group of characters                                                       
+5	%ld	long int	       Used for I/O long signed integer value
+6	%u	unsigned int   	   Used for I/O unsigned integer value
+7	%i	unsigned int	   used for the I/O integer value
+8	%lf	double	           Used for I/O fractional or floating data 
+9	%n	prints	           prints nothing 

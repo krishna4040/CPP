@@ -1,0 +1,30 @@
+// formatted IO:
+    //console
+    * scanf     printf
+
+    // string
+    * sscanf    sprintf
+
+    // file
+    * fscanf    fprintf
+
+// unformatted IO:
+    _get_    _put_
+
+    // console
+    * getche
+    * getch     putch
+    * getchar   putchar
+    * fgetchar  fputchar
+    * gets      puts
+
+    // file
+    * getc      putc
+    * fgetc     fputc
+    * fgets     fputs
+
+s ---> string
+c/ch/char ---> char
+w ---> int
+wc --> wide char
+wchar ----> wide wide char
